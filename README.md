@@ -4,11 +4,11 @@
 
 - Capture d'écran du **GameBoard** : affiche les 9 cellules du plateau de jeu, le score, le bouton de réinitialisation et l’indicateur du tour du joueur en cours.
 
-![GameBoard](./public/game-screenshuts/game-board.png)
+![GameBoard](./public/game-screenshots/game-board.png)
 
 - Capture d'écran de l’état **gagnant** : montre la ligne gagnante mise en évidence après une victoire, ainsi que l’affichage du vainqueur.
 
-![Winning State](./public/game-screenshuts/game-board-win.png)
+![Winning State](./public/game-screenshots/game-board-win.png)
 
 ## Description
 
@@ -43,4 +43,4 @@ npm run dev
 "# tictactoe-game-react"
 "# tictactoe-game-react"
 "# tictactoe-game-react"
-"# tictactoe-game-react" 
+"# tictactoe-game-react"
